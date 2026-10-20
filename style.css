@@ -1,0 +1,24 @@
+body {
+  background-color:#FFFFE0; /* Warna hijau */
+font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca */
+color: #191970; /* Warna teks utama (biru gelap) */
+}
+
+.katru-profile {
+  width: 300px auto;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+  beckground-color: whtie;
+  border-radius: 15px; /* membat sedut menjadi melengkung  */
+box-shadow: 0 4px 8px rgba(0,0,0,0,1): /* efek bayangan */
+}
+|
+
+.kartu-profil ing {
+  width: 150px;
+  border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil {
+  /* ... (kode dari slade sebelumnya) ... */
+text-align: center; /* menengahkan semua teks di dalam kartu */
+}
